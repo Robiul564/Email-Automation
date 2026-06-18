@@ -10,7 +10,7 @@ This project generates professional emails using LLM and evaluates them with 3 c
 pip install -r requirements.txt
 ```
 
-### 2. (Optional) Set OpenAI API key
+### 2. Set OpenAI API key
 
 If you have an OpenAI API key, set it:
 
